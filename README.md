@@ -101,3 +101,10 @@ This new test record has been added successfully
 * **Storage**: Plain-text files (no external database required)
 
 ---
+
+##  Contributors
+
+* **Taleen Bayatneh (1211305)**
+* **Masa Jalamneh (1212145)**
+
+---
